@@ -8,5 +8,5 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the Live: **[click here]()**
+To view the Live: **[click here](https://comfy-stardust-61c8c3.netlify.app/)**
 ---
